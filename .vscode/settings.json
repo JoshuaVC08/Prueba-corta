@@ -1,9 +1,14 @@
 {
     "cSpell.words": [
+        "agregar",
+        "Arroz",
         "codigo",
+        "código",
         "Contenedor",
         "CREAR",
+        "DETALLES",
         "Duplicado",
+        "encuentra",
         "existe",
         "existencia",
         "Expira",
@@ -12,9 +17,11 @@
         "Ganancia",
         "getnombre",
         "gettelef",
+        "IMPRIMIR",
         "INSERTAR",
         "METODO",
         "METODOS",
+        "nomb",
         "nombre",
         "Periodo",
         "porcentaje",
@@ -24,6 +31,7 @@
         "setnombre",
         "settelef",
         "supermercado",
-        "telef"
+        "telef",
+        "Teléfono"
     ]
 }

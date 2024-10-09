@@ -46,7 +46,7 @@ public class Periodo{
         // METODO toString
 
     public String toString() {
-        return "Periodo [fechaInicio=" + fechaInicio + ", fechaFin=" + fechaFin + "]";
+        return "fechaInicio=" + fechaInicio + ", fechaFin=" + fechaFin;
 
     }
 

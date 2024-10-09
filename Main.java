@@ -11,7 +11,7 @@ public class Main {
         //CREAR PRODUCTOS
         Producto producto1 = new Producto("001", "Arroz", 100,2000.0,10.0,expira1,iva1);
         Producto producto2 = new Producto("002","Frijoles",50,3000.0,15.0,expira1,iva1);
-        Producto productoDuplicado = new Producto("001", "Arroz Duplicado", 30, 2500.0, 12.0, expira1, iva1);
+        Producto productoDuplicado = new Producto("003", "Arroz Duplicado", 30, 2500.0, 12.0, expira1, iva1);
 
         //CREAR CONTENEDOR
         ContenedorDeProductos supermercado = new ContenedorDeProductos("SuperMercado ABC","123456789");

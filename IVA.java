@@ -41,7 +41,7 @@ public class IVA {
     }
 
     public String toString(){
-        return "IVA: " + this.valorIVA + " Periodo: " + this.periodo + "]";
+        return this.valorIVA + " Periodo: " + this.periodo;
     }
 
 }

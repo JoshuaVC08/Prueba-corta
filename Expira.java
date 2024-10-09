@@ -31,7 +31,7 @@ public class Expira {
     //METODO toString
 
     public String toString(){
-        return "Expira [fechaExpiracion=" + fechaExpiracion + "]";
+        return "fechaExpiracion=" + fechaExpiracion;
     }
 
 
